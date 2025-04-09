@@ -1,0 +1,3 @@
+function funcaojaja() {
+    window.print();
+}
